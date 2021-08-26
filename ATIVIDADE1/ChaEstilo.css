@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Verdana;
+    background-color:	#6495ED;
+    }
+
+h1{
+    color: 			#191970	;
+   
+    font-style: italic;
+
+    
+    font-size: 30px;
+    text-transform: uppercase;
+    }
+    h2 {
+     color:  #4682B4;  
+    font-size: 25px;
+    }
+    p {
+    color: 	#000080;
+    text-align: justify;
+    }
+    h3,h4,h5 {
+        font-style: italic;
+         color:	#0000CD;
+        font-size: 20px;   
+    }
+    h4, h5{
+        font-size: 15px;   
+
+    }
+    ol, ul{
+        font-size: 15px;   
+ 
+    }
+    li{
+        color: 		#FF4500;
+        font-size: 15px;   
+    }
+    
+    
